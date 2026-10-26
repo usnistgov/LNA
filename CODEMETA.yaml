@@ -32,7 +32,7 @@ categories:
   # - ai-ml
   # - performance-and-workflow
   - scientific-software
-  # - simulation
+   - simulation
   # - tools
   # - visualization
 
@@ -44,9 +44,9 @@ themes:
   #     - Quantum communications
   #     - Wireless (RF)
   #
-  # - Bioscience
+   - Bioscience
   #     - Biomaterials
-  #     - Biomolecular characterization
+       - Biomolecular characterization
   #     - Bioprocessing
   #     - Cell biology
   #     - Engineering or synthetic biology
@@ -68,12 +68,12 @@ themes:
   #     - Structural engineering
   #     - Sustainable buildings
   #
-  # - Chemistry
+   - Chemistry
   #     - Analytical chemistry
   #     - Chemical engineering and processing
   #     - Chemical thermodynamics and chemical properties
   #     - Molecular characterization
-  #     - Theoretical chemistry and modeling
+       - Theoretical chemistry and modeling
   #     - Thermochemical properties
   #
   # - Electronics
@@ -177,7 +177,7 @@ themes:
   #
   # - Manufacturing
   #     - Additive manufacturing
-  #     - Biomanufacturing
+       - Biomanufacturing
   #     - Factory communications
   #     - Factory operations planning and control
   #     - Interoperability in manufacturing
