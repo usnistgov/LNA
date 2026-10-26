@@ -6,4 +6,10 @@
 # The sequence matters: later patterns take precedence.
 
 # FILES  OWNERS
-*        @usnistgov/opensource-team
+@rodrigogalindo
+@drroe
+@cbergonzo
+
+Rodrigo Galindo-Murillo, Department of Medicinal Chemistry, Ionis Pharmaceuticals, 2855 Gazelle Court, Carlsbad, California 92010, United States
+Daniel R. Roe, Laboratory of Computational Biology, National Heart Lung and Blood Institute, National Institutes of Health, Bethesda, MD 20892, United States
+Christina Bergonzo, Institute for Bioscience and Biotechnology Research, National Institute of Standards and Technology and the University of Maryland, 9600 Gudelsky Way, Rockville, Maryland 20850, United States
