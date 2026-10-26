@@ -1,0 +1,14 @@
+Input file for running PB
+&general
+   verbose=1,
+   interval=1,
+   startframe=1,
+   endframe=99999999,
+   keep_files=0,
+/
+&pb
+  inp=2,
+  istrng=1000.0,
+  radiopt=0,
+/
+

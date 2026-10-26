@@ -1,0 +1,13 @@
+Input file for running GB
+&general
+   verbose=1,
+   interval=1,
+   startframe=1,
+   endframe=99999999,
+   keep_files=0,
+/
+&gb
+  igb=1,
+  saltcon=1.0
+/
+
